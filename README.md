@@ -2,7 +2,7 @@
 # Hi, my name is Mateusz and I work as a Data Engineer / Data Analyst / Lead Consultant 👋
 
 ### About me and my job ⬇️
-I am an accomplished Data Analyst and Data Engineer with over 4.5 years of hands-on experience in the industry. My journey has been one of continuous growth and learning, and I take great pride in my ability to derive valuable insights from data.  
+I am an accomplished Data Analyst and Data Engineer with over 5 years of hands-on experience in the industry. My journey has been one of continuous growth and learning, and I take great pride in my ability to derive valuable insights from data.  
   Throughout my career, I have mastered the entire data lifecycle, from collecting and cleaning data to performing in-depth analysis and visualization. This has allowed me to make informed decisions and provide actionable recommendations to support business objectives.  
   As a strong proponent of cloud solutions, I firmly believe in their potential to revolutionize data management and processing. Leveraging cloud-based technologies has enabled me to create scalable and cost-effective solutions, contributing to organizational efficiency and success.  
   My skills and expertise have been validated by earning certifications from renowned tech companies like Google and Microsoft. These certifications are a testament to my dedication to staying current with the latest tools and techniques in the data and analytics field.  
